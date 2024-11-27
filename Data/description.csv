@@ -1,4 +1,4 @@
-Feature;Meaning
+"Feature";"Meaning"
 Customer ID;Unique identifier for each customer
 Age;Age of the customer (numeric)
 Gender;Gender of the customer (Male or Female)
