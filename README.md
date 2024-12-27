@@ -117,3 +117,33 @@ The [dataset](https://www.kaggle.com/datasets/cameronseamons/electronic-sales-se
 - The analysis shows clear trends in loyalty membership transitions. Most customers are "Regular Members," reflecting consistent loyalty, while "New Members" and "Churned" statuses indicate dynamic shifts. Peaks in "New Members" suggest effective acquisition efforts, while increases in "Churned" highlight retention challenges. Tracking these trends helps businesses refine loyalty programs, improve retention strategies, and enhance customer satisfaction.
 
 
+**b. Question 3:**  With each product type, which kind of items that customer usually purchase more?
+
+**Benefits:**
+- When customers buy a product, we can know what kind of items they will add more. By understanding these purchasing behaviors and identifying patterns, businesses can anticipate customer needs, offer relevant add-ons, and create tailored marketing strategies. 
+- This approach not only improves customer satisfaction by meeting their expectations but also enables the company to increase revenue through targeted upselling, bundling, and strategic placement of high-demand add-ons during the purchasing journey.
+
+**How to answer this question:**
+
+- Visualize
+    <center>
+    <img src="Image/q3-1.png">
+    </center>
+
+**&rarr; Answer the question:**  With each product type, which kind of items that customer usually purchase more?
+
+Through the firts chart we have some key observation:
+- **Smartphones** are the products with the highest number of accessories (Accessories), impulse purchases (Impulse Items), and extended warranties (Extended Warranty) compared to other products.
+- **Tablet and Smartwatch** products have a relatively equal number of Add-ons.
+- **Headphones** have the lowest number of Add-ons in all three categories, especially accessories and extended warranties.
+
+With the seconds chart, we have:
+- **Smartphones** continue to lead in the number of combined Add-ons (Accessory, Impulse Item, Extended Warranty). **Tablets** is just behind Smartphones, which have a relatively high number Add-ons. Finally, the lowest one is belonging to **Headphones** products.
+- **Laptops and Tablets** have a high number of Add-ons combined, especially in the (Accessory + Impulse Item) and (Extended Warranty + Impulse Item) combinations.
+- **Headphones and Smartwatches** have lower numbers in the Add-ons combination, especially the (Accessory + Extended Warranty) combination.
+- Accessory, Extended Warranty, Impulse Item combination (combining all 3 types) is the least common of all products.
+
+We can have some insights about that: 
+- **Smartphones** are often products that require a lot of accompanying accessories, are easy to buy impluse items (like screen protectors) and have extended warranties due to their high value. Smartphones also are products that easily encourage customers to buy many Add-ons. From that, we can develop marketing strategies to attact more customer and increase revenue.
+- When purchasing **Laptops, Tablets and Smartwatches**, customers tend to buy accessories along with impulse items. For example, we can increase awareness of Add-ons combinations through advertising of complementary products.
+- **Headphones** rarely attract Add-ons, possibly because the products often only need basic accessories or are of little value to invest in extended warranties. So bussiness need a strategy to focus on promoting Add-ons for Headphones, because this is the least profitable product through Add-ons.
