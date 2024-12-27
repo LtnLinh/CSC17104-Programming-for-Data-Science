@@ -25,7 +25,7 @@ The [dataset](https://www.kaggle.com/datasets/cameronseamons/electronic-sales-se
     </center>
 - **Column Types**
     <center>
-    <img src="Image/Column-type.png" height=250>
+    <img src="Image/Column-type.png">
     </center>
 - **Distribution**
     - Numeric Values
