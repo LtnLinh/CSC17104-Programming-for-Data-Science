@@ -13,7 +13,7 @@ Customer purchase behavior - Electronic Sales Data Project
 
 - **Working Plan:** [Google sheet](https://docs.google.com/spreadsheets/d/1wnJ2Im7WxUYBzPZbPgQprs9gf-SFMRJHmO04_kE_N9g/edit?usp=sharing)
 
-    <img src="Image/....png">
+    <img src="Image/sheet.png">
 
 ## II. Project information:
 ### 1. Dataset
